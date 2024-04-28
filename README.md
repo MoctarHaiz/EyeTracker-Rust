@@ -1,1 +1,1 @@
-# ET-Rust
+# EyeTracker-Rust
